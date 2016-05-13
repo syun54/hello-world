@@ -1,5 +1,4 @@
 # hello-world
-Practice respository
 
 Hi all,
 
